@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"You miss every shot you don't take" -Albert Einstein
 Use the left arrow to go back!
